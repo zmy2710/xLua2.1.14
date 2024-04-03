@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Debug|x64|G:\xf001\Dev\tools\xLua-2.1.14\build\luac\build64\CMakeFiles\3.20.1\|
